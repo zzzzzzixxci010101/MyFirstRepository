@@ -1,5 +1,6 @@
-# MyFirstRepository
+# 18136001 김주연
 
-Hello my name is JY
+## 2주차 과제
 
-<img width="" height="" src="./Png/cat.png.PNG"></img>
+
+## 3주차 과제
