@@ -16,4 +16,5 @@
 기능을 만들어 다른 사용자들도 관심있는 분야의 책을 쉽고 빠르게 확인하여 책을 더 가까이 할 수 있도록 한다. 
 
 ## 7주차 과제
-<img width="" height="" src=" ./Png/7주차과제1.PNG></img> <img width="" height="" src=" ./Png/7주차과제2.PNG></img>
+<img width="" height="" src="./Png/7주차과제1.PNG"></img> 
+<img width="" height="" src="./Png/7주차과제2.PNG"></img>
